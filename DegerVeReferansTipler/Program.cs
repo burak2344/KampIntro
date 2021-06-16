@@ -20,8 +20,8 @@ namespace DegerVeReferansTipler
             sayilar2[0] = 999;
             //sayilar1[0] 999
 
-            //int , decimal , float , double , bool -- değer tip ---->stack de gerçekleşiyor ----- burada değere atama
-            //array , class , interface --referans tip ------>stack ve heap de birlikte gerçekleşir ----- burada adres değerine atama
+            //int , decimal , float , double , bool -- değer tip(Value Types) ---->stack de gerçekleşiyor ----- burada değere atama
+            //array , class , interface --referans tip(Reference Types) ------>stack ve heap de birlikte gerçekleşir ----- burada adres değerine atama
 
         }
     }
