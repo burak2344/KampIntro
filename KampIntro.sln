@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarbucksNeroDemoWithMernis", "StarbucksNeroDemoWithMernis\StarbucksNeroDemoWithMernis.csproj", "{ACB1D920-CD93-4D6F-A363-7C70A96D8E65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDemoWithMernis", "GameDemoWithMernis\GameDemoWithMernis.csproj", "{0BA702C6-36F4-4456-8C6F-53556015CC22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{ACB1D920-CD93-4D6F-A363-7C70A96D8E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACB1D920-CD93-4D6F-A363-7C70A96D8E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACB1D920-CD93-4D6F-A363-7C70A96D8E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA702C6-36F4-4456-8C6F-53556015CC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA702C6-36F4-4456-8C6F-53556015CC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA702C6-36F4-4456-8C6F-53556015CC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA702C6-36F4-4456-8C6F-53556015CC22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
