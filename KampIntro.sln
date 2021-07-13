@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarbucksNeroDemoWithMernis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameDemoWithMernis", "GameDemoWithMernis\GameDemoWithMernis.csproj", "{0BA702C6-36F4-4456-8C6F-53556015CC22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{D72F5491-ED8C-46DA-9C54-9215118FBFAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProject", "GameProject\GameProject.csproj", "{D72F5491-ED8C-46DA-9C54-9215118FBFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{65BEC336-A6CC-43C9-85F7-ABC90220AE67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{D72F5491-ED8C-46DA-9C54-9215118FBFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D72F5491-ED8C-46DA-9C54-9215118FBFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D72F5491-ED8C-46DA-9C54-9215118FBFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BEC336-A6CC-43C9-85F7-ABC90220AE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BEC336-A6CC-43C9-85F7-ABC90220AE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BEC336-A6CC-43C9-85F7-ABC90220AE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BEC336-A6CC-43C9-85F7-ABC90220AE67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
